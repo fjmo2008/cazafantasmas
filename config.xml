@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.helloworld" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Cazafantasmas</name>
+    <description>
+        Juego desarrollado con Phaser para el Módulo 4 del curso de MiriadaX
+    </description>
+    <author email="fjmo2008@gmail.com" href="https://www.linkedin.com/in/francisco-jose-mingorance-ortega-a70a0947">
+        Paco Mingorance
+    </author>
+    <content src="index.html" />
+	<platform name="android" />
+    <access origin="*" />
+</widget>

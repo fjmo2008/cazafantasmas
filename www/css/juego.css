@@ -1,0 +1,55 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: #fdcf58;
+}
+
+body.agitado{
+  background-color: #800909;
+}
+
+body.inicio{
+  background-color: #000000;
+}
+
+#presentacion{
+  width: 100%;
+  height: 250px;
+  border: 0px solid #000000;
+  background-image:url(../assets/cazafantasmas.png);
+  background-position:center;
+  background-repeat:no-repeat;
+}
+
+div.lectura{
+  display: block;
+  background-color: #f27d0c;
+  color: #800909;
+  border: none;
+  width: 50%;
+  padding: 30px;
+  font-size: 3em;
+  margin-top: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.actions{
+  text-align:center;
+  margin-top:10px;
+}
+
+.actions+.actions{
+  margin-top:20px;
+  margin-bottom:20px;
+}
+
+.actions button{
+  font-size:10px;
+}
+
+.actions button .glyphicon{
+  font-size:20px;
+}

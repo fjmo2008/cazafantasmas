@@ -1,0 +1,17 @@
+{
+  "name": "bolitas",
+  "version": "1.1.0",
+  "description": "Juego desarrollado con Phaser para el Módulo 4.",
+  "repository": {
+    "type": "git",
+    "url": "git+https:////github.com/fjmo2008/cazafantasmas.git"
+  },
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "author": "Paco Mingorance",
+  "license": "Apache-2.0"
+}
